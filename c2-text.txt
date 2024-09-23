@@ -1,5 +1,0 @@
-C2 text file
-
-C2 was modified on main branch
-
-С2 was modified on test2 branch
