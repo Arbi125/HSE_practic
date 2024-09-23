@@ -1,1 +1,3 @@
 C2 text file
+
+С2 was modified on test2 branch
